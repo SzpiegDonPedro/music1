@@ -1,0 +1,26 @@
+{
+    "name": "Music1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "microbit-pxt-blehid - Copy": "github:bsiever/microbit-pxt-blehid#v0.1.0",
+        "midi": "github:microsoft/pxt-midi#v2.2.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.51",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
